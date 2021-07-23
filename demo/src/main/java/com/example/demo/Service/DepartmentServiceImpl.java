@@ -1,7 +1,7 @@
 package com.example.demo.Service;
 
 import com.example.demo.Entity.Department;
-import com.example.demo.Repositary.DepartmentRepo;
+import com.example.demo.Repository.DepartmentRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
